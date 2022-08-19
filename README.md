@@ -14,4 +14,4 @@ yarn start
 
 ## Demo
 
-https://plotly-js-1tg0xlquk-amidralnereaygu.vercel.app/
+https://plotly-js-rgl.vercel.app
