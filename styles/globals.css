@@ -1,5 +1,5 @@
 .layout > div {
-  border: 1px solid black;
+  border: 1px solid grey;
   user-select: none;
   cursor: default;
 }
