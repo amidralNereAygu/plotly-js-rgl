@@ -1,0 +1,22 @@
+.navbarContainer {
+  position: fixed;
+  height: 3rem;
+}
+
+.contentContainer {
+  margin-top: 3rem;
+  position: fixed;
+  height: calc(100vh - 3rem);
+  overflow-y: auto;
+  width: 100%;
+}
+
+.layout > div {
+  border: 1px solid grey;
+  user-select: none;
+  cursor: default;
+}
+
+.react-flow__attribution {
+  display: none;
+}
